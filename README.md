@@ -44,6 +44,14 @@ To request a **MagicFile**, follow these steps:
 
 <a href="https://paypal.me/AlienSK"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Paypal_2014_logo.png" alt="PayPal Payment Method" width="100"/></a> 
 
+### Important PayPal Payment Clarification:
+Due to **PayPal limitations** in some regions and account statuses, some users may experience issues sending payments. In such cases, funds may appear **greyed out** or unavailable in our account.
+
+If this happens:
+- You will need to **contact PayPal support** to confirm and **release the funds** on your behalf.
+- Once the funds become available in our account, we can proceed with the transaction.
+- If PayPal does not release the funds, you must wait up to **30 days** from the transaction date for the money to become fully available to us.
+
 🔒 **Security and Authenticity**: When requesting a MagicFile, you're not just getting a piece of paper but actual device data. We buy devices to create valid MagicFiles that help you unlock Apple devices and others like **Xiaomi**, **Huawei**, **Motorola**, and **Samsung**.
 
 ---
