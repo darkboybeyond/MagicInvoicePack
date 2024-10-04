@@ -35,8 +35,8 @@ To request a **MagicFile**, follow these steps:
 2. Make the payment of **4X USD** (where **X** represents the variable changes of the price as it can increase or decrease).
 3. After completing the payment, please **contact us** through our official channels.
 
-[![PayPal Payment Method](https://icon-icons.com/icons2/652/PNG/512/paypal_payment_method_icon-icons.com_59784.png)](https://paypal.me/YourCustomPayPalLink)  
-[Download PayPal Icon](https://yourlinktoiosorandroidapp.com)
+[![PayPal Payment Method](https://upload.wikimedia.org/wikipedia/commons/a/a4/Paypal_2014_logo.png)](https://paypal.me/AlienSK)  
+
 
 🔒 **Security and Authenticity**: When requesting a MagicFile, you're not just getting a piece of paper but actual device data. We buy devices to create valid MagicFiles that help you unlock Apple devices and others like **Xiaomi**, **Huawei**, **Motorola**, and **Samsung**.
 
