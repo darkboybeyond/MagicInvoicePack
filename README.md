@@ -46,22 +46,22 @@ To request a **MagicFile**, follow these steps:
 
 ## 📷 Images Section:
 
-Here are some visual examples showcasing the **#MagicInvoicePack** in action:
+Here are some visual examples showcasing the **#MagicInvoicePack** in action. Click on the images to view them in a new tab:
 
 1. **#MagicInvoicePack: Demo AT&T**  
-   ![AT&T Examples](https://i.imgur.com/sg9AxGm.gif)
+   [![AT&T Examples](https://i.imgur.com/sg9AxGm.gif)](https://i.imgur.com/sg9AxGm.gif)
 
 2. **#MagicInvoicePack: Demo AT&T MX**  
-   ![AT&T MX Examples](https://i.imgur.com/7dWd3Xp.gif)
+   [![AT&T MX Examples](https://i.imgur.com/7dWd3Xp.gif)](https://i.imgur.com/7dWd3Xp.gif)
 
 3. **#MagicInvoicePack: Demo Verizon**  
-   ![Verizon Examples](https://i.imgur.com/3HWf6JA.gif)
+   [![Verizon Examples](https://i.imgur.com/3HWf6JA.gif)](https://i.imgur.com/3HWf6JA.gif)
 
 4. **#MagicInvoicePack: Demo T-Mobile**  
-   ![T-Mobile Examples](https://i.imgur.com/GnB30US.gif)
+   [![T-Mobile Examples](https://i.imgur.com/GnB30US.gif)](https://i.imgur.com/GnB30US.gif)
 
 5. **#MagicInvoicePack: Price List Demo**  
-   ![Price List](https://i.imgur.com/p1D70C9.gif)
+   [![Price List](https://i.imgur.com/p1D70C9.gif)](https://i.imgur.com/p1D70C9.gif)
    
 ---
 
