@@ -54,11 +54,11 @@ Here are some visual examples showcasing the **#MagicInvoicePack** in action:
 2. **#MagicInvoicePack: Demo AT&T MX**  
    ![AT&T MX Examples](https://i.imgur.com/7dWd3Xp.gif)
 
-3. **#MagicInvoicePack: Demo Verizon**  
-   ![Verizon Examples](https://i.imgur.com/3HWf6JA.gif)
+3. **#MagicInvoicePack: Demo AT&T**  
+   ![AT&T Examples](https://i.imgur.com/sg9AxGm.gif)
 
-4. **#MagicInvoicePack: Demo T-Mobile**  
-   ![T-Mobile Examples](https://i.imgur.com/GnB30US.gif)
+4. **#MagicInvoicePack: Demo AT&T MX**  
+   ![AT&T MX Examples](https://i.imgur.com/7dWd3Xp.gif)
 
 5. **#MagicInvoicePack: Price List Demo**  
    ![Price List](https://i.imgur.com/p1D70C9.gif)
