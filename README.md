@@ -38,7 +38,7 @@ Would you rather pay **$100 USD** for a **cheap service** and risk getting locke
 ## 💳 Payment Method:
 To request a **MagicFile**, follow these steps:
 
-1. Open PayPal and send the payment to the official address (to be provided later).
+1. Open PayPal and send the payment to the official address (Paypal icon).
 2. Make the payment of **4X USD** (where **X** represents the variable changes of the price as it can increase or decrease).
 3. After completing the payment, please **contact us** through our official channels.
 
