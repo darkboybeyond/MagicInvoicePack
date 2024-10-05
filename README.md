@@ -1,5 +1,7 @@
 q# ✨ #MagicInvoicePack aka #MIP – Recover Proof of Purchase | iCloud Unlock | Find My Deactivation | Multi-OEM Support ✨
 
+![MagicInvoicePack Logo](https://i.imgur.com/gXG4WAT.png)
+
 Welcome to **#MagicInvoicePack**, your trusted solution for recovering lost or damaged **Proof of Purchase (PoP)** across a wide range of devices, including **Apple 🍏**, **Xiaomi 📱**, **Huawei 🛠️**, **Motorola 📲**, **Samsung 📦**, and many other OEMs. Whether you're handling warranty claims, returns, replacements, or need official support with **iCloud unlock 🔓**, **Find My iPhone deactivation 📳**, or **Activation Lock removal 🚫**, our package has you covered.
 
 ---
