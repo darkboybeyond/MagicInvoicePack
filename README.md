@@ -77,6 +77,20 @@ Here are some visual examples showcasing the **#MagicInvoicePack** in action. Cl
 5. **#MagicInvoicePack: Demo T-Mobile**  
    [Click here to view the T-Mobile Examples](https://i.imgur.com/GnB30US.gif)
 
+More Demos:
+1. ![Example 1](https://i.imgur.com/uWES0BG.png)
+2. ![Example 2](https://i.imgur.com/LUMxbLH.png)
+3. ![Example 3](https://i.imgur.com/5Xdc0gj.png)
+4. ![Example 4](https://i.imgur.com/2F1LwhZ.png)
+5. ![Example 5](https://i.imgur.com/O3ZNxIC.png)
+6. ![Example 6](https://i.imgur.com/NtC9LXm.png)
+7. ![Example 7](https://i.imgur.com/BwjX9Oi.png)
+8. ![Example 8](https://i.imgur.com/e9mZR9u.png)
+9. ![Example 9](https://i.imgur.com/nvYfpva.png)
+10. ![Example 10](https://i.imgur.com/7dbsWhd.png)
+11. ![Example 11](https://i.imgur.com/49A5dC5.jpg)
+12. ![Example 12](https://i.imgur.com/eTITxmo.jpg)
+
 ---
 
 ## Conclusion:
